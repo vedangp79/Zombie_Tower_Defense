@@ -1,0 +1,9 @@
+Read Values: 
+Quiver Capacity: 10
+Seed: 2049231
+Rand Dist: 50
+Rand Speed: 60
+Rand Health: 1
+Delimiter line read: "" with length: 0
+String read: round:
+Integer read: 1

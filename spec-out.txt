@@ -1,0 +1,7 @@
+Read Values: 
+Quiver Capacity: 10
+Seed: 1234
+Rand Dist: 50
+Rand Speed: 60
+Rand Health: 1
+---round:1
